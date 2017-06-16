@@ -1,0 +1,14 @@
+Github: https://github.com/GlobalDevOpsBootcamp/challenge1
+
+VSTS: https://globaldevopsbootcamp.visualstudio.com/
+
+
+To Create Service Principal
+--------------------------------
+az ad sp create-for-rbac --name {appId} --password "{strong password}"
+
+Subs: 0aad3a51-7781-41a7-945a-708550012f65
+Service Principal: a950a4e2-473e-45be-bd24-2fb3f6c71f44
+password: P2ssw0rd
+tenantId: 93019fb4-f045-4b77-9943-0163ad6f35f8
+
